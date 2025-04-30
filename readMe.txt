@@ -1,4 +1,4 @@
-WordTracker is a Java application that processes a text file to track the occurrences and locations of words. It supports various formats and serializes the results for future use.
+WordTracker is a Java application that processes a text file to track the occurrences and locations of words. It supports various formats and serializes the results for future use. Future use storage is done through flattening data into a bst and then unflattening the WordData object for use after conversion.
 
 Different Output Formats:
 pf: plain format, shows words and the files they are in.

@@ -10,8 +10,7 @@ import implementations.BSTreeNode;
 /**
  * <p>
  * The <code>BSTreeADT</code> interface is designed to be used as a basis for 
- * the BST data structure that will be developed in the CPRG 304 class at
- * SAIT. The implementors of this interface will be required to add all the
+ * this program. The implementors of this interface will be required to add all the
  * functionality.
  * </p>
  * 
